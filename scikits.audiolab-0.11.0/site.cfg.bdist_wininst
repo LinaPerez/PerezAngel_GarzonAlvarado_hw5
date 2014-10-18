@@ -1,4 +1,0 @@
-[sndfile]
-library_dirs = C:\local\lib
-include_dirs = C:\local\include
-libraries = sndfile,vorbis,vorbisenc,FLAC,ogg,wsock32
